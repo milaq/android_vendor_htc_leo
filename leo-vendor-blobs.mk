@@ -51,7 +51,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/htc/leo/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/htc/leo/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/htc/leo/8proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so
+    vendor/htc/leo/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so
 
 # leo specific
 PRODUCT_COPY_FILES += \
