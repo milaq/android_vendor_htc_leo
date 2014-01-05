@@ -69,4 +69,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/leo/proprietary/lib/libhtc_ril_wrapper.so:system/lib/libhtc_ril_wrapper.so \
     vendor/htc/leo/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/htc/leo/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    vendor/htc/leo/proprietary/lib/librpc.so:system/lib/librpc.so
+    vendor/htc/leo/proprietary/lib/librpc.so:system/lib/librpc.so \
+    vendor/htc/leo/proprietary/vendor/lib/hw/gps.htcleo.so:system/vendor/lib/hw/gps.htcleo.so
